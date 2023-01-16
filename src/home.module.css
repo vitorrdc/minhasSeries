@@ -1,0 +1,27 @@
+
+.container {
+  min-height: 91.5vh;
+  background-color: rgb(161, 159, 159);
+}
+
+.img {
+  width: 190vh;
+  margin-left: 0px;
+  height: 500px;
+  margin-top: 5%;
+  min-height: 350px;
+}
+
+.carousel {
+  margin-left: 11vh;
+}
+
+.textCarousel {
+  font-size: 5em;
+}
+
+.inputBuscaSerie {
+  margin-left: 40%;
+  border-style:ridge;
+  border-radius: 6px;
+}

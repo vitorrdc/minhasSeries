@@ -1,0 +1,51 @@
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(161, 159, 159);
+  min-height: 91.5vh;
+}
+
+.tableTittle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:1% 10% 1% 10%;
+  height: 70px;
+
+  width: 900px;
+  margin-left: 17%;
+}
+
+.tableArea{
+
+  height: auto;
+  width: 700px;
+  margin-left: 24%;
+  margin-top: 60px;
+}
+
+.buttonArea {
+  display: flex;
+  justify-content: space-around;
+}
+
+.alertContainer{
+  background-color: rgb(161, 159, 159);
+  min-height: 91.5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.alertTextContainer{
+  width: 1100px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+
+
+
+
+

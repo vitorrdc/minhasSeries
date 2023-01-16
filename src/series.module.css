@@ -1,0 +1,60 @@
+.container {
+  background-color: rgb(161, 159, 159);
+  min-height: 91.5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.tableTittle {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  width: 700px;
+  align-items: center;
+}
+
+.tableContainer {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  height: 500px;
+}
+
+img {
+  width: 80px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.button_area{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 63px;
+
+}
+
+.alertContainer{
+  background-color: rgb(161, 159, 159);
+  min-height: 91.5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.alertContainer button {
+  margin-top: 30px;
+}
+
+.alertTextContainer{
+  width: 1100px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+
