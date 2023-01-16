@@ -19,7 +19,7 @@ function Header() {
   const [data, setData] = useState([])
   const [searchSerie, setSearchSerie] = useState('')
   const [idFound, setIdFound] = useState('')
-  const [stopSearch, setStopeSearch] = useState(false)
+  
 
   useEffect(() => {
     axios.get('/api/series')
